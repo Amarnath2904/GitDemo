@@ -1,2 +1,2 @@
-# GitDemo
-Hi<br>This is My First Experience of Using Github<br> Learning Git and GitHub
+GIT-HUB
+Hello My Self Akoskhana Amarnath from GRIET College<br>BTech CSE @nd Year Student.
